@@ -1,0 +1,2 @@
+rootProject.name='Grand Rapids Gymnastics'
+include ':app'
